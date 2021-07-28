@@ -1,0 +1,8 @@
+POST http://localhost:5000/v1/categories
+Content-Type: application/json
+
+{
+  "title":"Category one"
+}
+
+###
